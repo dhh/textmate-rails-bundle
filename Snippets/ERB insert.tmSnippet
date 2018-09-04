@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= $0 %&gt;</string>
+	<key>keyEquivalent</key>
+	<string>^z</string>
+	<key>name</key>
+	<string>ERB insert</string>
+	<key>uuid</key>
+	<string>5D72BA53-2AB6-4E43-85C1-6756A9DC10C7</string>
+</dict>
+</plist>
